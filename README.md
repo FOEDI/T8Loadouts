@@ -14,10 +14,9 @@ Project based on [shield-development](https://github.com/project-bo4/shield-deve
 - Extract the ``d3d11.dll`` in the root directory of your game.
 - Launch the game once and close it to create the player profile.
 - Edit ``project-bo4.json`` to change your nickname.
-- Copy the content of one of the subdirectory from the ``saves`` directory to ``game_directory/player/bnet-xxxxx/`` and replace everything. (you can change loadout by closing the game and replacing the file with an other preset)
+- Copy the ``zm_progression_online`` to ``game_directory/player/bnet-xxxxx/`` and replace.
+- Copy the content of one of the subdirectory from ``saves`` to ``game_directory/player/bnet-xxxxx/`` and replace everything. (you can change loadout by closing the game and replacing the file with an other preset)
 - Start the game using the ``BlackOps4.exe`` and enjoy!
-
-> if you want you can do an unlock all using gsc, so you can edit calling cards, etc.
 
 > in case you want to play online using official servers you will need to remove the d3d11.dll from the game directory.
 
