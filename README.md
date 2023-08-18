@@ -17,6 +17,8 @@ Project based on [shield-development](https://github.com/project-bo4/shield-deve
 - Copy the content of one of the subdirectory from the ``saves`` directory to ``game_directory/player/bnet-xxxxx/`` and replace everything. (you can change loadout by closing the game and replacing the file with an other preset)
 - Start the game using the ``BlackOps4.exe`` and enjoy!
 
+> if you want you can do an unlock all using gsc, so you can edit calling cards, etc.
+
 > in case you want to play online using official servers you will need to remove the d3d11.dll from the game directory.
 
 ## Special thanks
